@@ -1,0 +1,27 @@
+Here’s a quick summary of resources to help you find your way around:
+
+Help: Asking for Help Tips
+
+Documentation: http://docs.zephyrproject.org (Getting Started Guide)
+
+Source Code: https://github.com/zephyrproject-rtos/zephyr is the main repository; https://elixir.bootlin.com/zephyr/latest/source contains a searchable index
+
+Releases: https://github.com/zephyrproject-rtos/zephyr/releases
+
+Samples and example code: see Sample and Demo Code Examples
+
+Mailing Lists: users@lists.zephyrproject.org and devel@lists.zephyrproject.org are the main user and developer mailing lists, respectively. You can join the developer’s list and search its archives at Zephyr Development mailing list. The other Zephyr mailing list subgroups have their own archives and sign-up pages.
+
+Nightly CI Build Status: https://lists.zephyrproject.org/g/builds The builds@lists.zephyrproject.org mailing list archives the CI nightly build results.
+
+Chat: Real-time chat happens in Zephyr’s Discord Server. Use this Discord Invite to register.
+
+Contributing: see the Contribution Guide
+
+Wiki: Zephyr GitHub wiki
+
+Issues: https://github.com/zephyrproject-rtos/zephyr/issues
+
+Security Issues: Email vulnerabilities@zephyrproject.org to report security issues; also see our Security documentation. Security issues are tracked separately at https://zephyrprojectsec.atlassian.net.
+
+Zephyr Project Website: https://zephyrproject.org
